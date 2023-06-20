@@ -1,5 +1,5 @@
 # Calender
-code for week of the day for Non_leap year date
+code for week of the day for Non_leap year
 
 Pre-requisites
 --------------
@@ -7,19 +7,13 @@ Pre-requisites
 - C++
 ## Demo
 
-![Results](Floating_Point_Addder_Result.png)
-![Results](FPA.jpg)
+![Results](calender_result.png)
 
 ## Features
 
-- 
+- It will give the week of the day - 
 
 
-
-## Results
-
-
-- 
 ## Authors
 
 - [@hemu33662](https://github.com/hemu33662)
